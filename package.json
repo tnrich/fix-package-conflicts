@@ -1,6 +1,6 @@
 {
   "name": "fix-package-conflicts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fix package json merge conflicts by always taking the latest version(yarn or npm)",
   "main": "index.js",
   "repository": "https://github.com/tnrich/fix-package-conflicts",
