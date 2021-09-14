@@ -1,0 +1,16 @@
+{
+  "name": "fix-package-conflicts",
+  "version": "1.0.0",
+  "description": "fix package json merge conflicts by always taking the latest version(yarn or npm)",
+  "main": "index.js",
+  "repository": "https://github.com/tnrich/fix-package-conflicts",
+  "author": "Thomas Rich <tnrich@teselagen.com>",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.7",
+    "minimist": "^1.2.5",
+    "semver": "^7.3.5",
+    "yargs": "^17.1.1"
+  },
+  "bin": "./index.js"
+}
