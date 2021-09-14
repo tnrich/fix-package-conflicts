@@ -4,12 +4,12 @@
 
 # Example usage: 
 ```
-fix-package-conflicts pathToYourRepo branchName --useYarn
+npx fix-package-conflicts pathToYourRepo branchName --useYarn
 --incomingBranch=main
 ```
 aka
 ```
-fix-package-conflicts ~/Sites/react-snowpack zoinkl --useYarn
+npx fix-package-conflicts ~/Sites/react-snowpack zoinkl --useYarn
 --incomingBranch=main
 ```
 
